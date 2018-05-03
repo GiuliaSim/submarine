@@ -1,0 +1,14 @@
+Disegna un sommergibile (è sufficiente la silhouette)
+che percorre in orizzontale la parte inferiore dell'area di disegno.
+La figurella non può uscire dall'area di disegno,
+ma quando raggiunge il bordo destro riappare dal bordo sinistro.
+Dal sommergibile escono delle bolle che salgono in verticale
+aumentando di dimensione, fino a scomparire nel bordo superiore
+dell'area di disegno.
+Facendo click su una bolla questa scompare.
+
+Il progetto dovrà essere svolto individualmente utilizzando JavaScript e D3.js.
+Per la consegna (entro il 23 maggio 2018)
+è sufficiente che tu risponda a questa mail mettendo il progetto in allegato.
+La valutazione di questo mini-progetto individuale
+peserà tre punti sul voto finale.
